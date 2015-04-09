@@ -5,6 +5,6 @@ Homebrew tap for Shutterstock.
 ## Usage
 
 ``` console
-$ brew tap shutterstock/shutterstock
-$ brew install task-cli
+$ brew tap michaek/shutterstock
+$ brew install vsql
 ```
